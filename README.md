@@ -9,4 +9,5 @@ pip install -r requirements.txt
 python app.py
 ```
 3. **Откройте приложение в браузере**
-Локально: http://localhost:5000
+
+Перейдите по адресу: http://localhost:5000
